@@ -1,11 +1,38 @@
 body{
-    background-image: url(https://brancopapeldeparede.fbitsstatic.net/img/p/painel-ceu-fundo-azul-71873/243345-3.jpg?w=817&h=1108&v=no-change);
+    background-image: url(https://www.seekpng.com/png/detail/779-7795725_fundo-textura-fundos-estampas-planos-de-fundo-gotas.png);
+    background-attachment: fixed;
+    border-style: groove;
+    border-radius: 8px;
+   
+   }
 
-    <p class="inset">Meio ambiente é um “conjunto de condições, leis, influências e interações de ordem física, química e biológica que permite, abriga e rege a vida em todas as suas formas”, de acordo com a Política Nacional do Meio Ambiente. Assim, o termo apresenta diferentes conotações, podendo ser analisado sob diversas perspectivas, como: aspectos naturais, espaço urbano, locais onde as pessoas exercem suas atividades e patrimônios cultural, nacional e genético.</p>
-    image{
-    width: 40%;
-    height: 40%;
+h1{
+   text-align: center;
+   font-family: fantasy;
+   font: size 75px;
+}    
+
+p{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: large; 
 }
 
+.imagem1{
+   position: center;
+   width: 650px;
+   height: 370px;
+   margin-left: 27%;
+}
 
-        
+   .imagem2{
+       position: center;
+       width: 650px;
+       height: 370px;
+       margin-left: 27%;
+}
+
+   .nome{
+       text-align:end;
+       font-family: Arial, Helvetica, sans-serif;  
+}
